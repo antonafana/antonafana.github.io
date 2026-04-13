@@ -40,7 +40,7 @@ education:
   - degree: PhD Mathematics
     institution: University of British Columbia
     start: 2021-09-01
-    end: ''
+    end: Present
     summary: |
       Thesis focused on algorthmic approaches to create highly scalable pathways for capturing and analyzing scRNA-seq datasets.
   - degree: BSc (Hons) Mathematics
