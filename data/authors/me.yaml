@@ -5,14 +5,14 @@ name:
   display: Anton Afanassiev
   given: Anton
   family: Afanassiev
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
+  alternate: ''
+  pronunciation: ''
   pronouns: he/him
-status:
-  icon: "☕️"
 role: PhD Candidate at UBC
 bio: |
-  Lorem Ipsum
+  I am a PhD candidate in mathematics working in computational biology. Over the past few years I have been developing
+  algorithms to massively scale data collection and analysis for scRNA-seq. My ideal job has me tackling unique problems
+  in computational biology on large datasets.
 
 affiliations:
   - name: UBC Math Department
@@ -32,7 +32,7 @@ links:
     url: https://orcid.org/0000-0003-2387-8783
     
 interests:
-  - Computation Biology
+  - Computational Biology
   - Single-cell RNA Sequencing
   - Big Data Models for Bio
 
@@ -74,7 +74,6 @@ skills:
   - name: Research & Communication
     items:
       - label: Academic Writing
-      - label: Conference Presentations
       - label: Grant Proposals
 
 languages:

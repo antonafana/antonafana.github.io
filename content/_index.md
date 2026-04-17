@@ -38,11 +38,16 @@ sections:
       title: 'About Me'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        I'm a nerd for computers and biology. I've tried to bring those two things together throughout my PhD. I like to
+        tackle problems from multiple angles, and like learning how to work with new data. I've worked with a number
+        of aspects of scRNA-seq data, from mutations, to time inference, to analyzing RNA counts. In my spare time I like
+        reading papers about disease management and health outcomes. Directly applying my work to this would be quite
+        exciting for me, so please contact me if you have any opportunities!
+        
+        Aside from my work, I like to go outside ... a lot. I like hiking, mountaineering, climbing, and everything in-between.
+        Lately, I've also found a bit of a niche in maintaining backcountry huts. I recently organized two large hut
+        restorations with the UBC Varsity Outdoor Club, which brought together hundreds of volunteers over thousands of
+        hours of work to save two aging huts. I post trip reports about escapades like this and more on this site.
     design:
       columns: '1'  
   - block: collection
