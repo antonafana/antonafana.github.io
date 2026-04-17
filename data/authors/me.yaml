@@ -71,6 +71,14 @@ skills:
       - label: Python
       - label: Machine Learning
       - label: Cloud Computing
+  - name: Python Libraries
+    items:
+      - label: NumPy
+      - label: pandas
+      - label: matplotlib
+      - label: scikit-learn
+      - label: PyTorch
+      - label: SciPy
   - name: Research & Communication
     items:
       - label: Academic Writing
