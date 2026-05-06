@@ -36,49 +36,68 @@ interests:
   - Single-cell RNA Sequencing
   - Big Data Models for Bio
 
+experience:
+  - role: Computational Biology Researcher (PhD Candidate)
+    org: UBC Mathematics
+    start: 2020-05-30
+    summary: |
+      Developing large-scale algorithms for sequencing data using Python (NumPy, matplotlib, pandas, sklearn, etc...). Applications
+      generally deal with high-dimensional data fitting and make use of multiprocessing and distributed computing.
+      Examples include [DemuxHMM](https://www.biorxiv.org/content/10.64898/2026.02.23.703392v1) 
+      and [Wasserstein Principal Curves](https://arxiv.org/abs/2505.04168).
+  - role: Web Development and Digital Marketing Internship
+    org: Creatros Technologies Inc.
+    start: 2019-05-01
+    end: 2019-08-31
+    summary: |
+      Worked on an extensive redesign of the company website (PHP, HTML, CSS) as well as lead generation (HubSpot CRM).
+      Stayed organized using Jira boards.
+  - role: Undergraduate Researcher
+    org: Memorial University
+    start: 2018-05-01
+    end: 2018-08-31
+    summary: |
+      Worked on a high-resolution fluid dynamics study of wind farms using OpenFoam. Extensively used the ComputeCanada
+      (now AllianceCan) distributed computing network.
+  - role: Undergraduate Researcher
+    org: Memorial University
+    start: 2017-05-01
+    end: 2017-08-31
+    summary: |
+      Implemented graph sorting algorithms in Python (Sage, networkx) and applied them to board game graphs. Some examples
+      include [k-fixed Cop Number](https://github.com/antonafana/Cop-Number) 
+      and [Tree Edge Search Number](https://github.com/antonafana/Tree-Edge-Search-Number).
+
 education:
   - degree: PhD Mathematics
     institution: University of British Columbia
     start: 2021-09-01
     end: Present
     summary: |
-      Thesis focused on algorthmic approaches to create highly scalable pathways for capturing and analyzing scRNA-seq datasets.
+      Thesis focused on algorithmic approaches to create highly scalable pathways for capturing and analyzing scRNA-seq datasets.
   - degree: BSc (Hons) Mathematics
     institution: University of British Columbia
     start: 2017-09-01
     end: 2020-05-27
-
-experience:
-  - role: Computational Biology Researcher (PhD Candidate)
-    org: UBC Mathematics
-    start: 2020-05-30
     summary: |
-      Developing large-scale algorithms for sequencing data using Python, NumPy, matplotlib, pandas, and more. Examples include DemuxHMM and Wasserstein Principal Curves.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: Web Development and Digital Marketing Internship
-    org: Creatros Technologies Inc.
-    start: 2019-05-01
-    end: 2019-08-31
-    summary: |
-      Worked on an extensive redesign of the company website as well as lead generation.
+      Finished an honours degree in Math from UBC. I generally focused on applied topics and computational approaches
+      during my final year.
 
 skills:
   - name: Technical Skills
     items:
       - label: Python
       - label: Machine Learning
-      - label: Cloud Computing
+      - label: Distributed Computing
+      - label: Data Visualization
   - name: Python Libraries
     items:
       - label: NumPy
       - label: pandas
       - label: matplotlib
       - label: scikit-learn
-      - label: PyTorch
       - label: SciPy
+      - label: PyTorch
   - name: Research & Communication
     items:
       - label: Academic Writing
