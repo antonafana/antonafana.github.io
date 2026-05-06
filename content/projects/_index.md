@@ -12,8 +12,8 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: Here I feature some of my more visually interesting projects. Some hobby stuff might make it in here every
-            now and then.
+      text: Here I feature some of my more visually interesting projects. I'll try and include some of the more interesting
+            hobby projects that I do too.
       filters:
         folders:
           - projects
