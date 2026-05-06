@@ -12,7 +12,8 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: Here I feature some of my more visually interesting projects. Some hobby stuff might make it in here every
+            now and then.
       filters:
         folders:
           - projects
