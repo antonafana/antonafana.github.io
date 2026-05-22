@@ -17,7 +17,7 @@ sections:
             or three that make it in too.
       filters:
         folders:
-          - projects
+          - trip-reports
     design:
       view: article-grid
       fill_image: false
