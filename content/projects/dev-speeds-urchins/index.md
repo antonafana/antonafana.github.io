@@ -22,7 +22,7 @@ The goal of this notebook is to analyze developmental timings between two sea ur
 [Developmental single-cell transcriptomics in the Lytechinus variegatus sea urchin embryo](https://journals.biologists.com/dev/article/148/19/dev198614/272307/Developmental-single-cell-transcriptomics-in-the?guestAccessKey=)
 and
 [Single-Cell Transcriptomics Reveals Evolutionary Reconfiguration of Embryonic Cell Fate Specification in the Sea Urchin Heliocidaris erythrogramma](https://academic.oup.com/gbe/article/17/1/evae258/7908551). Using gene orthologs, we can make these two different species comparable to each other. This lets us use Optimal Transport (OT) to calculate the distances between the various celltypes at through the developmental process. [Waddington-OT](https://broadinstitute.github.io/wot/tutorial/) even lets us take this comparison to before those cell types even initially exist by comparing ancestors relative to the final time point. The end result let us compare developmental speeds between cell types and is essentially the analysis from Figure 3a and 3b of the He paper.
-Note, the preview picture is actually of *Heliocidaris erythrogramma* from this [iNat observation](https://www.inaturalist.org/taxa/355859-Heliocidaris-erythrogramma).
+Note, the preview picture is actually of *Heliocidaris erythrogramma* from this [iNat observation](https://www.inaturalist.org/observations/207128098).
 
 ## Load Data
 
